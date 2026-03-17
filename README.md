@@ -1,6 +1,5 @@
 # 📊 Shiny Plot Studio
 
-[![Shiny App](https://img.shields.io/badge/Launch-App-blue?style=flat-square&logo=shiny)](https://tiger-tang.shinyapps.io/shiny_plots/) 
 [![Blog Post](https://img.shields.io/badge/Read-Blog%20Post-orange?style=flat-square)](https://tigertang.org/shinyapps_for_everyone/)
 
 **Shiny Plot Studio** is a productivity tool designed to bridge the gap between technical and non-technical users. It allows anyone to create publication-ready `ggplot2` visualizations via a GUI, while simultaneously generating the underlying R code for reproducibility and learning.
